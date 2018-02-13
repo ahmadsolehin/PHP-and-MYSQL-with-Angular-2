@@ -9,3 +9,5 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## screenshot
 
 ![nnu](https://user-images.githubusercontent.com/12325386/36143171-50184446-10e5-11e8-806b-0d57778e2c03.JPG)
+
+![nnu](https://user-images.githubusercontent.com/12325386/36143234-7ef1bbe4-10e5-11e8-8c39-099ffaae8fdf.JPG)
